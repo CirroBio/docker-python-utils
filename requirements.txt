@@ -20,5 +20,6 @@ scipy
 seaborn
 statsmodels
 urllib3
+vitessce
 wget
 zarr
