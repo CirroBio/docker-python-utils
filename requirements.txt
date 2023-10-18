@@ -18,6 +18,7 @@ scikit-image
 scikit-learn
 scipy
 seaborn
+starlette
 statsmodels
 urllib3
 vitessce
