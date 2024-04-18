@@ -2,6 +2,7 @@ anndata
 biopython
 boto3
 cirro
+harmonypy
 h5py
 hdbscan
 leidenalg
