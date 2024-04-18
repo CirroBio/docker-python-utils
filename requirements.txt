@@ -17,6 +17,7 @@ scikit-bio
 scikit-image
 scikit-learn
 scipy
+scrublet
 seaborn
 starlette
 statsmodels
