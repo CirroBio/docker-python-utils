@@ -1,4 +1,4 @@
-FROM python:3.13
+FROM python:3.12
 
 ENV DEBIAN_FRONTEND noninteractive
 RUN apt update && \
