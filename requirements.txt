@@ -33,5 +33,4 @@ tifffile
 urllib3
 vitessce
 wget
-xml
 zarr
