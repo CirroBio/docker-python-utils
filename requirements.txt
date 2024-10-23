@@ -2,6 +2,7 @@ anndata
 biopython
 boto3
 cirro
+geopandas
 harmonypy
 h5py
 hdbscan
@@ -20,6 +21,8 @@ scikit-learn
 scipy
 scrublet
 seaborn
+shapely
+spatialdata
 starlette
 statsmodels
 urllib3
