@@ -7,4 +7,5 @@ RUN apt update && \
 	apt install -y python3 python3-pip tcl
 
 ADD requirements.txt .
-RUN pip3 install -r requirements.txt
+RUN pip3 install -r requirements.txt && \
+	python3 -c "from spatialdata.models import ShapesModel"
