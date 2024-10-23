@@ -22,7 +22,6 @@ scipy
 scrublet
 seaborn
 shapely
-spatialdata
 starlette
 statsmodels
 urllib3
