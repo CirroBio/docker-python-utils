@@ -8,6 +8,5 @@ RUN apt update && \
 
 ADD requirements.txt .
 RUN python3 -m pip install -r requirements.txt && \
-	python3 -m pip install spatialdata && \
-	python3 -m pip install "spatialdata[extra]" && \
+	python3 -m pip install spatialdata==0.2.3 && \
 	python3 -c "from spatialdata.models import ShapesModel"
