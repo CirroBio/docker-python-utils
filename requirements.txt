@@ -2,6 +2,8 @@ anndata
 biopython
 boto3
 cirro
+click
+dask
 geopandas
 harmonypy
 h5py
@@ -11,9 +13,11 @@ loompy
 loompy
 louvain
 matplotlib
+multiscale-spatial-image
 numpy
 pandas
 plotly
+rasterio
 scanpy
 scikit-bio
 scikit-image
@@ -22,9 +26,12 @@ scipy
 scrublet
 seaborn
 shapely
+scikit-image
 starlette
 statsmodels
+tifffile
 urllib3
 vitessce
 wget
+xml
 zarr
