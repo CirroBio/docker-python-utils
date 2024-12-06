@@ -35,4 +35,5 @@ tifffile
 urllib3
 vitessce
 wget
+xarray==2024.7.0
 zarr
