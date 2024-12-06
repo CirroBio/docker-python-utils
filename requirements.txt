@@ -9,6 +9,7 @@ harmonypy
 h5py
 hdbscan
 imagecodecs
+kaleido
 leidenalg
 loompy
 loompy
