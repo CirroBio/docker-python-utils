@@ -9,7 +9,6 @@ harmonypy
 h5py
 hdbscan
 imagecodecs
-kaleido
 leidenalg
 loompy
 loompy
@@ -35,5 +34,4 @@ tifffile
 urllib3
 vitessce
 wget
-xarray==2024.7.0
 zarr
